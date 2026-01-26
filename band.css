@@ -1,0 +1,79 @@
+.sidebar{
+    width: 40%;
+    float: right;
+    background-color: skyblue;
+    height: 40%;
+    border: 10px solid turquoise;
+    padding: 20px;
+    text-align: center;
+    margin: 10px;
+}
+
+
+h1{
+    text-align: center;
+    color: blue;
+    font-size: xx-large;
+    font-weight: 400;
+    font-style: normal;
+    font-family: serif;
+}
+
+h2{
+    color: blueviolet;
+}
+
+.main{
+    text-align: center;
+}
+
+#pp{
+    text-align: left;
+
+}
+
+.images{
+    float: left;
+    padding: 7px;
+}
+
+
+#l2{
+    width: 300px;
+    height: 300px;
+
+}
+    
+#l3{
+    width: 200px;
+    height: 200px;
+}
+
+
+#l4{
+    width: 300px;
+    height: 300px;
+}
+
+#l5{
+    width: 200px;
+    height: 200px;
+
+}
+
+#l6{
+    width: 300px;
+    height: 300px;
+}
+
+.ppp{
+    text-align: center;
+    font-family: cursive;
+    font-style: italic;
+    font-weight: 400;
+    font-size: larger;
+}
+
+footer{
+    color: blueviolet;
+}
