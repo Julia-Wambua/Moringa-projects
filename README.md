@@ -1,22 +1,37 @@
 # Photography Website
 #### This is a student html project: Demonstrating the use of html and css in web design, 26/01/2026
 #### By **Wambua Julia Mwende**
+
+## Live site
+https://julia-wambua.github.io/Moringa-projects/
+
 ## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+This is a photography portfolio website showing some of my favourite photographs.It introduces the photographer in question through a short biography and also allows users to reach out using a contact form.
+This project aims at showcasing aquired skills such as:
+  1. Structuring a website using HTML
+  2. Styling a website using CSS
+  3. Using Git and GitHub for version control
+  4. Deploying a live site using GitHub Pages
+     
 ## Setup/Installation Requirements
-* This is a great place
-* to list setup instructions
-* in a simple
-* easy-to-understand
-* format
-{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
+* Download the repository from GitHub
+* Open the project folder using Visual Studio Code.
+* Ensure the presence of index.html, photography.css and an images folder containing all used images.
+  
 ## Known Bugs
-{Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
+At the moment, there are n6o known bugs. In case of their discovery, feel free to rach out or offer ideas on improvements that can be made.
+
 ## Technologies Used
-{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}
+  1. HTML
+  2. CSS
+  3. Git
+  4. GitHub
+     
 ## Support and contact details
-{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
+if you have any queries, kindly reach out:
+**Email**: wambuajulia442@gmail.com 
+
 ### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
-Copyright (c) {year} **{List of contributors or company name}**
+*This project is licensed under the MIT license.*
+Copyright (c) 2026 **Wambua Julia Mwende**
   
