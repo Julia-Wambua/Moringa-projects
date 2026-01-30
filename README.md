@@ -1,6 +1,6 @@
 # Photography Website
-#### {This is a student html project: Demonstrating the use of html and css in web design}, {26/01/202n6}
-#### By **{Wambua Julia Mwende}**
+#### This is a student html project: Demonstrating the use of html and css in web design, 26/01/2026
+#### By **Wambua Julia Mwende**
 ## Description
 {This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
 ## Setup/Installation Requirements
